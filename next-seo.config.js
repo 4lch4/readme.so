@@ -29,23 +29,23 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://readme.so/',
+    url: 'https://readme.4lch4.cloud/',
     title: 'readme.so',
     description: `Use readme.so's markdown editor and templates to easily create a ReadMe for your projects`,
     images: [
       {
-        url: 'https://readme.so/readme.png',
+        url: 'https://readme.4lch4.cloud/readme.png',
         width: 375,
         height: 375,
         alt: 'Og Image Alt',
       },
     ],
-    site_name: 'readme.so',
+    site_name: 'readme.4lch4.cloud',
     imageWidth: 1200,
     imageHeight: 1200,
   },
   twitter: {
-    handle: '@katherinecodes',
+    handle: '@4lch4',
     cardType: 'summary',
   },
 }
